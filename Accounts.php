@@ -21,7 +21,7 @@ $languageStrings = array(
 	'Ticker Symbol'                => 'Simbolo Ticker'              , 
 	'Member Of'                    => 'Membro di'                   , 
 	'Employees'                    => 'Impiegati'                   , 
-	'Ownership'                    => 'Propriet&agrave;'            , 
+	'Ownership'                    => 'Proprietà;'            , 
 	'SIC Code'                     => 'Codice SIC'                  , 
 	'Other Email'                  => 'Altra Email'                 , 
 	'Analyst'                      => 'Analista'                    , 
@@ -34,12 +34,12 @@ $languageStrings = array(
 	'Reseller'                     => 'Rivenditore'                 , 
 	'LBL_START_DATE'               => 'Data Inizio'                 , 
 	'LBL_END_DATE'                 => 'Data Fine'                   , 
-	'LBL_DUPLICATES_EXIST'         => 'Organization Name already exists', 
-	'LBL_COPY_SHIPPING_ADDRESS'    => 'Copy Shipping Address'       , // TODO: Review
-	'LBL_COPY_BILLING_ADDRESS'     => 'Copy Billing Address'        , // TODO: Review
+	'LBL_DUPLICATES_EXIST'         => 'Nome azienda esistente', 
+	'LBL_COPY_SHIPPING_ADDRESS'    => 'Copia indirizzo di spedizione'       , // TODO: Review
+	'LBL_COPY_BILLING_ADDRESS'     => 'Copia indirizzo di fatturazione'        , // TODO: Review
 );
 $jsLanguageStrings = array(
-	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Are you sure you want to Delete?', 
-	'LBL_DELETE_CONFIRMATION'      => 'Deleting this Organization will remove its related Opportunities & Quotes. Are you sure you want to delete this Organization?', 
-	'LBL_MASS_DELETE_CONFIRMATION' => 'Deleting this Organization will remove its related Opportunities & Quotes. Are you sure you want to delete this Organization?', 
+	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Sei sicuro di volerlo cancellare?', 
+	'LBL_DELETE_CONFIRMATION'      => 'Cancellando questa azienda rimuoverai opportunità e preventivi collegati. Sei sicuro di voler cancellare questa azienda?', 
+	'LBL_MASS_DELETE_CONFIRMATION' => 'Cancellando questa azienda rimuoverai opportunità e preventivi collegati. Sei sicuro di voler cancellare questa azienda?', 
 );
