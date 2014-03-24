@@ -10,10 +10,10 @@
 $languageStrings = array(
 	'PriceBooks'                   => 'Listini'                     , 
 	'SINGLE_PriceBooks'            => 'Listino'                     , 
-	'LBL_ADD_RECORD'               => 'Add Price Book'              , 
-	'LBL_RECORDS_LIST'             => 'Price Books List'            , 
+	'LBL_ADD_RECORD'               => 'Aggiungi listino'              , 
+	'LBL_RECORDS_LIST'             => 'Listini'            , 
 	'LBL_PRICEBOOK_INFORMATION'    => 'Informazioni Listino:'       , 
-	'LBL_EDIT_LIST_PRICE'          => 'Edit List Price'             , 
+	'LBL_EDIT_LIST_PRICE'          => 'MOdifica prezzi listino'             , 
 	'Price Book Name'              => 'Nome Listino'                , 
 	'PriceBook No'                 => 'No Listino'                  , 
 );
