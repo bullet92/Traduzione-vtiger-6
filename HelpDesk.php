@@ -10,8 +10,8 @@
 $languageStrings = array(
 	'HelpDesk'                     => 'Assistenza Clienti'          , 
 	'SINGLE_HelpDesk'              => 'Ticket'                      , 
-	'LBL_ADD_RECORD'               => 'Aggiungi Ticket'                  , 
-	'LBL_RECORDS_LIST'             => 'Lista Ticket'                 , 
+	'LBL_ADD_RECORD'               => 'Aggiungi Ticket'             , 
+	'LBL_RECORDS_LIST'             => 'Lista Ticket'                , 
 	'LBL_TICKET_INFORMATION'       => 'Informazioni Ticket'         , 
 	'LBL_TICKET_RESOLUTION'        => 'Informazioni Soluzione'      , 
 	'Ticket No'                    => 'Biglietto n.'                , 
@@ -37,7 +37,7 @@ $languageStrings = array(
 	'Closed'                       => 'Chiuso'                      , 
 	'LBL_STATUS'                   => 'Stato'                       , 
 	'LBL_SEVERITY'                 => 'Importanza'                  , 
-	'LBL_CONVERT_FAQ'              => 'Converti in FAQ'              , 
+	'LBL_CONVERT_FAQ'              => 'Converti in FAQ'             , 
 	'LBL_RELATED_TO'               => 'Relazionato a'               ,
 
 	//added to support i18n in ticket mails
@@ -50,7 +50,7 @@ $languageStrings = array(
 	'LBL_TICKET_DETAILS' => 'Dettaglio ticket',
 	'created' => 'creato',
 	'replied' => 'risposto',
-	'reply' => 'è presente una risposta a ',
+	'reply' => 'è presente una risposta a',
 	'customer_portal' => 'nel Portale Clienti di vTiger',
 	'link' => 'Puoi usare il seguente link per visualizzare le risposte date:',
 	'Thanks' => 'Grazie',
