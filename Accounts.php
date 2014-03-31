@@ -10,7 +10,7 @@
 $languageStrings = array(
 	'Accounts'                     => 'Aziende'                     , 
 	'SINGLE_Accounts'              => 'Azienda'                     , 
-	'LBL_ADD_RECORD'               => 'Add Organization'            , 
+	'LBL_ADD_RECORD'               => 'Aggiungi azienda'            , 
 	'LBL_RECORDS_LIST'             => 'Lista Aziende'               , 
 	'LBL_ACCOUNT_INFORMATION'      => 'Informazioni Azienda'        , 
 	'LBL_SHOW_ACCOUNT_HIERARCHY'   => 'Mostra gerarchia Aziende'    , 
@@ -21,7 +21,7 @@ $languageStrings = array(
 	'Ticker Symbol'                => 'Simbolo Ticker'              , 
 	'Member Of'                    => 'Membro di'                   , 
 	'Employees'                    => 'Impiegati'                   , 
-	'Ownership'                    => 'Proprietà;'            , 
+	'Ownership'                    => 'Proprietà;'                  , 
 	'SIC Code'                     => 'Codice SIC'                  , 
 	'Other Email'                  => 'Altra Email'                 , 
 	'Analyst'                      => 'Analista'                    , 
@@ -34,7 +34,7 @@ $languageStrings = array(
 	'Reseller'                     => 'Rivenditore'                 , 
 	'LBL_START_DATE'               => 'Data Inizio'                 , 
 	'LBL_END_DATE'                 => 'Data Fine'                   , 
-	'LBL_DUPLICATES_EXIST'         => 'Nome azienda esistente', 
+	'LBL_DUPLICATES_EXIST'         => 'Nome azienda esistente'      , 
 	'LBL_COPY_SHIPPING_ADDRESS'    => 'Copia indirizzo di spedizione'       , // TODO: Review
 	'LBL_COPY_BILLING_ADDRESS'     => 'Copia indirizzo di fatturazione'        , // TODO: Review
 );
