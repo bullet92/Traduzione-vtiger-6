@@ -8,23 +8,23 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'Potentials'                   => 'Opportunità'               , 
-	'SINGLE_Potentials'            => 'Opportunità'          , 
-	'LBL_ADD_RECORD'               => 'Aggiungi Opportunità'             , 
-	'LBL_RECORDS_LIST'             => 'Lista Opportunità'          , 
-	'LBL_OPPORTUNITY_INFORMATION'  => 'Informazioni Opportunità', 
-	'Potential No'                 => 'No. Opportunità'      , 
+	'Potentials'                   => 'Opportunità'                 , 
+	'SINGLE_Potentials'            => 'Opportunità'                 , 
+	'LBL_ADD_RECORD'               => 'Aggiungi opportunità'        , 
+	'LBL_RECORDS_LIST'             => 'Lista opportunità'           , 
+	'LBL_OPPORTUNITY_INFORMATION'  => 'Informazioni opportunità'    , 
+	'Potential No'                 => 'Numero opportunità'          , 
 	'Amount'                       => 'Ammontare'                   , 
 	'Next Step'                    => 'Step successivo'             , 
 	'Sales Stage'                  => 'Stadio di vendita'           , 
-	'Probability'                  => 'Probabilità (%)'      , 
-	'Campaign Source'              => 'Fonte Campagna'              , 
-	'Forecast Amount'              => 'Ammontare previsione'             , 
+	'Probability'                  => 'Probabilità (%)'             , 
+	'Campaign Source'              => 'Fonte campagna'              , 
+	'Forecast Amount'              => 'Ammontare previsione'        , 
 	'Funnel'                       => 'Sales Funnel'                , 
 	'Potentials by Stage'          => 'Opportunità per Stadio'      , 
-	'Total Revenue'                => 'Ricavi per Venditore'      , 
-	'Top Potentials'               => 'Top Opportunità'           , 
-	'Forecast'                     => 'Previsione vendite'              , 
+	'Total Revenue'                => 'Ricavi per Venditore'        , 
+	'Top Potentials'               => 'Top Opportunità'             , 
+	'Forecast'                     => 'Previsione vendite'          , 
 	'Prospecting'                  => 'In Prospettiva'              , 
 	'Qualification'                => 'Qualificazione'              , 
 	'Needs Analysis'               => 'Da Analizzare'               , 
@@ -38,7 +38,7 @@ $languageStrings = array(
 	'--None--'                     => '--Nessuno--'                 , 
 	'Existing Business'            => 'Business Esistente'          , 
 	'New Business'                 => 'Nuovo Business'              , 
-	'LBL_EXPECTED_CLOSE_DATE_ON'   => 'Previsione di chiusura in'        , 
-	'LBL_RELATED_CONTACTS'         => 'Contatto relazionato'            , // TODO: Review
-	'LBL_RELATED_PRODUCTS'         => 'Prodotto relazionato'            , // TODO: Review
+	'LBL_EXPECTED_CLOSE_DATE_ON'   => 'Previsione di chiusura in'   , 
+	'LBL_RELATED_CONTACTS'         => 'Contatto relazionato'        , // TODO: Review
+	'LBL_RELATED_PRODUCTS'         => 'Prodotto relazionato'        , // TODO: Review
 );
