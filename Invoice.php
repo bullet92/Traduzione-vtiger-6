@@ -10,8 +10,8 @@
 $languageStrings = array(
 	'SINGLE_Invoice'               => 'Fattura'                     , 
 	'LBL_EXPORT_TO_PDF'            => 'Esporta in PDF'              , 
-	'LBL_SEND_MAIL_PDF'            => 'Send Email with PDF'         , // TODO: Review
-	'LBL_ADD_RECORD'               => 'Aggiungi fattura'                 , 
+	'LBL_SEND_MAIL_PDF'            => 'Manda email con PDF'         , // TODO: Review
+	'LBL_ADD_RECORD'               => 'Aggiungi fattura'            , 
 	'LBL_RECORDS_LIST'             => 'Lista fatture'               , 
 	'LBL_INVOICE_INFORMATION'      => 'Informazioni Fattura'        , 
 	'Sales Order'                  => 'Ordine di Vendita'           , 
@@ -21,10 +21,10 @@ $languageStrings = array(
 	'Sales Commission'             => 'Commissioni Vendita'         , 
 	'Invoice No'                   => 'Fattura Numero'              , 
 	'LBL_RECEIVED'                 => 'Ricevuta'                    , // TODO: Review
-	'LBL_BALANCE'                  => 'Balance'                     , // TODO: Review
+	'LBL_BALANCE'                  => 'Saldo'                       , // TODO: Review
 	'Sent'                         => 'Spedito'                     , 
 	'Credit Invoice'               => 'Fattura di Accredito'        , 
 	'Paid'                         => 'Pagato'                      , 
-	'AutoCreated'                  => 'AutoCreato'                 , 
+	'AutoCreated'                  => 'AutoCreato'                  , 
 	'Cancel'                       => 'Annulla'                     , 
 );
