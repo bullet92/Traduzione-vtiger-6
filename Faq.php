@@ -11,7 +11,7 @@ $languageStrings = array(
 	'Faq'                          => 'FAQ'                         , 
 	'SINGLE_Faq'                   => 'Faq'                         , 
 	'LBL_RECORDS_LIST'             => 'Lista FAQ'                   , 
-	'LBL_ADD_RECORD'               => 'Aggiungi FAQ'                     , 
+	'LBL_ADD_RECORD'               => 'Aggiungi FAQ'                , 
 	'LBL_FAQ_INFORMATION'          => 'Informazione Faq'            , 
 	'LBL_COMMENT_INFORMATION'      => 'Informazioni Commento'       , 
 	'Question'                     => 'Domanda'                     , 
@@ -22,5 +22,5 @@ $languageStrings = array(
 	'Draft'                        => 'Bozza'                       , 
 	'Published'                    => 'Pubblicato'                  , 
 	'Obsolete'                     => 'Obsoleto'                    , 
-	'LBL_SOLUTION'                 => 'SOLUZIONE'                   , 
+	'LBL_SOLUTION'                 => 'Soluzione'                   , 
 );
