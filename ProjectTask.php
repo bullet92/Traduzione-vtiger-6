@@ -8,24 +8,24 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'SINGLE_ProjectTask'           => 'Project Task'                , 
-	'LBL_ADD_RECORD'               => 'Add Project Task'            , 
-	'LBL_RECORDS_LIST'             => 'Project Task List'           , 
-	'LBL_PROJECT_TASK_INFORMATION' => 'Project Task Details'        , 
-	'LBL_PROJECTS_LIST'            => 'Projects List'               , // TODO: Review
-	'LBL_TASKS_LIST'               => 'Tasks List'                  , // TODO: Review
+	'SINGLE_ProjectTask'           => 'Operazione'                 , 
+	'LBL_ADD_RECORD'               => 'Aggiungi operazione'        , 
+	'LBL_RECORDS_LIST'             => 'Lista operazioni'           , 
+	'LBL_PROJECT_TASK_INFORMATION' => 'Dettagli operazione'        , 
+	'LBL_PROJECTS_LIST'            => 'Lista progetti'             , // TODO: Review
+	'LBL_TASKS_LIST'               => 'Lista operazioni'           , // TODO: Review
 	
 	//Field Labels
-	'Project Task Name' => 'Project Task Name',
-    'Project Task No' => 'Project Task No',
-    'Project Task Number' => 'Project Task Number',
-	'Status' => 'Status',
-	'Priority' => 'Priority',
-    'Progress' => 'Progress',
-    'Type'=>'Type',
-    'Worked Hours'=>'Worked Hours',
-    'Start Date'=>'Start Date',
-    'End Date'=>'End Date',
+	'Project Task Name' => 'Nome operazione',
+    'Project Task No' => 'Numero operazione',
+    'Project Task Number' => 'Numero operazione',
+	'Status' => 'Stato',
+	'Priority' => 'Proirità',
+    'Progress' => 'Progresso',
+    'Type'=>'Tipo',
+    'Worked Hours'=>'Ore lavorate',
+    'Start Date'=>'Data di inizio',
+    'End Date'=>'Data di fine',
     'Related To' => 'Related To',
     'administrative' => 'administrative',
     'operative' => 'operative',
