@@ -25,7 +25,7 @@ $languageStrings = array(
 	'Active'                       => 'Attivo'                      , 
 	'Download Count'               => 'Conteggio download'          , 
 	'Folder Name'                  => 'Nome cartella'               , 
-	'Document No'                  => 'Numero documento'           , 
+	'Document No'                  => 'Numero documento'            , 
 	'Last Modified By'             => 'Ultima modifica di'          , 
 	'LBL_FOLDER_HAS_DOCUMENTS'     => 'Per favore muovi il documento dalla cartella prima di cancellarlo', 
 	'LBL_DOWNLOAD_FILE'            => 'Download file'               , 
@@ -48,9 +48,9 @@ $languageStrings = array(
 );
 $jsLanguageStrings = array(
 	'JS_EXCEEDS_MAX_UPLOAD_SIZE'   => 'Supera la massima dimensione per upload', 
-	'JS_NEW_FOLDER'                => 'Nuova cartella'                  , 
-	'JS_MOVE_DOCUMENTS'            => 'Muovi documenti'              , 
+	'JS_NEW_FOLDER'                => 'Nuova cartella'              , 
+	'JS_MOVE_DOCUMENTS'            => 'Muovi documenti'             , 
 	'JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO' => 'Sei sicuro di voler muovere il/i file in', 
-	'JS_FOLDER'                    => 'cartella'                      , 
-	'JS_OPERATION_DENIED'          => 'Operazione negata'            , 
+	'JS_FOLDER'                    => 'cartella'                    , 
+	'JS_OPERATION_DENIED'          => 'Operazione negata'           , 
 );
