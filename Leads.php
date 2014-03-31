@@ -37,9 +37,9 @@ $languageStrings = array(
 	'Pre Qualified'                => 'Prequalificato'              , 
 	'Qualified'                    => 'Qualificato'                 , 
 	'Warm'                         => 'Caldo'                       , 
-	'LBL_CONVERT_LEAD'             => 'Converti Lead:'              , 
+	'LBL_CONVERT_LEAD'             => 'Converti Lead..'              , 
 	'LBL_TRANSFER_RELATED_RECORD'  => 'Trsaferimento relaziona elemento a'  , 
-	'LBL_CONVERT_LEAD_ERROR'       => 'Devi attivare o Azienda o Contatto per convertire il lead', 
+	'LBL_CONVERT_LEAD_ERROR'       => 'Devi selezionare Azienda o Contatto per convertire il lead', 
 	'LBL_CONVERT_LEAD_ERROR_TITLE' => 'Modulo disabilitato'            , 
 	'CANNOT_CONVERT'               => 'Non può essere convertito'  , 
 	'LBL_FOLLOWING_ARE_POSSIBLE_REASONS' => 'Le ragioni possibili includono:'   , 
@@ -50,7 +50,7 @@ $languageStrings = array(
 	'LBL_WEBFORMS'                 => 'Setup Webfroms'              , 
 );
 $jsLanguageStrings = array(
-	'JS_SELECT_CONTACTS'           => 'Seleziona contatto per procedere'  , 
-	'JS_SELECT_ORGANIZATION'       => 'Seleziona azienda per procedere', 
+	'JS_SELECT_CONTACTS'           => 'Seleziona Contatto per procedere'  , 
+	'JS_SELECT_ORGANIZATION'       => 'Seleziona Azienda per procedere', 
 	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Conversione richiede la selezione di contatto o azienda', 
 );
