@@ -24,7 +24,7 @@ $languageStrings = array(
 	'LBL_TASK_INFORMATION'         => 'Informazione Compito'        , 
 	'Subject'                      => 'Soggetto'                    , 
 	'Start Date & Time'            => 'Orario e data inizio'        , 
-	'Activity Type'                => 'Tipo Attivit&agrave;'        , 
+	'Activity Type'                => 'Tipo Attività'               , 
 	'Send Notification'            => 'Manda Notifica'              , 
 	'Location'                     => 'Luogo'                       , 
 	'End Date & Time'              => 'Data e Ora Fine'             , 
@@ -63,12 +63,12 @@ $languageStrings = array(
 	'Yearly'                       => 'Anno'                        , // TODO: Review
 );
 $jsLanguageStrings = array(
-	'LBL_ADD_EVENT_TASK'           => 'Aggiungi evento / Compito'            , 
+	'LBL_ADD_EVENT_TASK'           => 'Aggiungi evento / Compito'   , 
 	'JS_TASK_IS_SUCCESSFULLY_ADDED_TO_YOUR_CALENDAR' => 'Il compito è stato aggiunto al calendario', // TODO: Review
 	'LBL_SYNC_BUTTON'              => 'Sincronizza ora'             , // TODO: Review
-	'LBL_SYNCRONIZING'             => 'Sto sincronizzando...'           , // TODO: Review
+	'LBL_SYNCRONIZING'             => 'Sto sincronizzando...'       , // TODO: Review
 	'LBL_NOT_SYNCRONIZED'          => 'Non hai ancora sincronizzato', // TODO: Review
-	'LBL_FIELD_MAPPING'            => 'Mappatura campi'               , // TODO: Review
+	'LBL_FIELD_MAPPING'            => 'Mappatura campi'             , // TODO: Review
 	'LBL_CANT_SELECT_CONTACT_FROM_LEADS' => 'Cannot select related Contacts for Leads', // TODO: Review
 	
 	//Calendar view label translation
