@@ -8,11 +8,11 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'SINGLE_ProjectMilestone'      => 'Pietra miliare progetto'           , 
-	'LBL_ADD_RECORD'               => 'Aggiungi pietra miliare'       , 
-	'LBL_RECORDS_LIST'             => 'Lista pietre miliari'     , 
-	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Dettagli pietra miliare'   , 
-	'Project Milestone Name'       => 'Nome pietra miliare'      , 
-	'Milestone Date'               => 'Data pietra miliare'              , 
-	'Project Milestone No'         => 'Numero pietra miliare'    , 
+	'SINGLE_ProjectMilestone'      => 'Scadenza'            , 
+	'LBL_ADD_RECORD'               => 'Aggiungi scadenza'   , 
+	'LBL_RECORDS_LIST'             => 'Lista scadenze'      , 
+	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Dettagli scadenza'          , 
+	'Project Milestone Name'       => 'Nome scadenza'       , 
+	'Milestone Date'               => 'Data scadenza'       , 
+	'Project Milestone No'         => 'Numero scadenza'     , 
 );
