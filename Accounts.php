@@ -36,7 +36,7 @@ $languageStrings = array(
 	'LBL_END_DATE'                 => 'Data Fine'                   , 
 	'LBL_DUPLICATES_EXIST'         => 'Nome azienda esistente'      , 
 	'LBL_COPY_SHIPPING_ADDRESS'    => 'Copia indirizzo di spedizione'       , // TODO: Review
-	'LBL_COPY_BILLING_ADDRESS'     => 'Copia indirizzo di fatturazione'        , // TODO: Review
+	'LBL_COPY_BILLING_ADDRESS'     => 'Copia indirizzo di fatturazione'     , // TODO: Review
 );
 $jsLanguageStrings = array(
 	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Sei sicuro di volerlo cancellare?', 
