@@ -10,7 +10,7 @@
 $languageStrings = array(
 	'LBL_ADD_RECORD' => 'Aggiungi Template Email'     ,
 	'SINGLE_EmailTemplates' => 'Email Template'       ,
-	'LBL_EMAIL_TEMPLATES'=> 'Email Templates'         ,
+	'LBL_EMAIL_TEMPLATES'=> 'Email Template'          ,
 	'LBL_EMAIL_TEMPLATE' => 'Email Template'          ,
 	
 	'LBL_TEMPLATE_NAME' => 'Nome Template'            ,
