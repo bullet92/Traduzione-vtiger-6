@@ -10,13 +10,13 @@
 $languageStrings = array(
 	'Contacts'                     => 'Contatti'                    , 
 	'SINGLE_Contacts'              => 'Contatto'                    , 
-	'LBL_ADD_RECORD'               => 'Aggiungi contatto'                 , 
-	'LBL_RECORDS_LIST'             => 'Lista contatti'               , 
+	'LBL_ADD_RECORD'               => 'Aggiungi contatto'           , 
+	'LBL_RECORDS_LIST'             => 'Lista contatti'              , 
 	'LBL_CONTACT_INFORMATION'      => 'Informazioni Contatto'       , 
 	'LBL_CUSTOMER_PORTAL_INFORMATION' => 'Informazioni Portale Clienti', 
 	'LBL_IMAGE_INFORMATION'        => 'Informazioni Immagine Contatto:', 
-	'LBL_COPY_OTHER_ADDRESS'       => 'Copia altro indirizzo'          , // TODO: Review
-	'LBL_COPY_MAILING_ADDRESS'     => 'Copia indirizzo spedizione'        , // TODO: Review
+	'LBL_COPY_OTHER_ADDRESS'       => 'Copia altro indirizzo'       , // TODO: Review
+	'LBL_COPY_MAILING_ADDRESS'     => 'Copia indirizzo spedizione'  , // TODO: Review
 	'Office Phone'                 => 'Telefono Ufficio'            , 
 	'Home Phone'                   => 'Telefono Casa'               , 
 	'Title'                        => 'Titolo'                      , 
@@ -29,7 +29,7 @@ $languageStrings = array(
 	'Reference'                    => 'Riferimento'                 , 
 	'Portal User'                  => 'Utente Portale'              , 
 	'Mailing Street'               => 'Via (spedizione)'            , 
-	'Mailing City'                 => 'Città  (spedizione)'  , 
+	'Mailing City'                 => 'Città  (spedizione)'         , 
 	'Mailing State'                => 'Provincia (spedizione)'      , 
 	'Mailing Zip'                  => 'CAP (spedizione)'            , 
 	'Mailing Country'              => 'Stato (spedizione)'          , 
@@ -51,7 +51,7 @@ $languageStrings = array(
 );
 $jsLanguageStrings = array(
 	'LBL_SYNC_BUTTON'              => 'Sincronizza ora'             , // TODO: Review
-	'LBL_SYNCRONIZING'             => 'Sto sincronizzando...'           , // TODO: Review
+	'LBL_SYNCRONIZING'             => 'Sto sincronizzando...'       , // TODO: Review
 	'LBL_NOT_SYNCRONIZED'          => 'Non hai ancora sincronizzato', // TODO: Review
-	'LBL_FIELD_MAPPING'            => 'Mappatura campi'               , // TODO: Review
+	'LBL_FIELD_MAPPING'            => 'Mappatura campi'             , // TODO: Review
 );
