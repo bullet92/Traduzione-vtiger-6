@@ -39,6 +39,6 @@ $languageStrings = array(
 	'Existing Business'            => 'Business esistente'          , 
 	'New Business'                 => 'Nuovo business'              , 
 	'LBL_EXPECTED_CLOSE_DATE_ON'   => 'Previsione di chiusura in'   , 
-	'LBL_RELATED_CONTACTS'         => 'Contatto relazionato'        , // TODO: Review
-	'LBL_RELATED_PRODUCTS'         => 'Prodotto relazionato'        , // TODO: Review
+	'LBL_RELATED_CONTACTS'         => 'Contatto relazionato'        ,
+	'LBL_RELATED_PRODUCTS'         => 'Prodotto relazionato'        ,
 );
