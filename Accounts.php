@@ -21,7 +21,7 @@ $languageStrings = array(
 	'Ticker Symbol'                => 'Simbolo Ticker'              , 
 	'Member Of'                    => 'Membro di'                   , 
 	'Employees'                    => 'Impiegati'                   , 
-	'Ownership'                    => 'Proprietà;'                  , 
+	'Ownership'                    => 'Propriet&agrave;'                  , 
 	'SIC Code'                     => 'Codice SIC'                  , 
 	'Other Email'                  => 'Altra Email'                 , 
 	'Analyst'                      => 'Analista'                    , 
@@ -40,6 +40,6 @@ $languageStrings = array(
 );
 $jsLanguageStrings = array(
 	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Sei sicuro di volerlo cancellare?', 
-	'LBL_DELETE_CONFIRMATION'      => 'Cancellando questa azienda rimuoverai opportunità e preventivi collegati. Sei sicuro di voler cancellare questa azienda?', 
-	'LBL_MASS_DELETE_CONFIRMATION' => 'Cancellando questa azienda rimuoverai opportunità e preventivi collegati. Sei sicuro di voler cancellare questa azienda?', 
+	'LBL_DELETE_CONFIRMATION'      => 'Cancellando questa azienda rimuoverai opportunit&agrave; e preventivi collegati. Sei sicuro di voler cancellare questa azienda?', 
+	'LBL_MASS_DELETE_CONFIRMATION' => 'Cancellando questa azienda rimuoverai opportunit&agrave; e preventivi collegati. Sei sicuro di voler cancellare questa azienda?', 
 );
