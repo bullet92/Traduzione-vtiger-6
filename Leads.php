@@ -51,6 +51,6 @@ $languageStrings = array(
 );
 $jsLanguageStrings = array(
 	'JS_SELECT_CONTACTS'           => 'Seleziona contatto per procedere'  , 
-	'JS_SELECT_ORGANIZATION'       => 'Seleziona azienda per procedere', 
+	'JS_SELECT_ORGANIZATION'       => 'Seleziona azienda per procedere'   , 
 	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Per poter effettuare la conversione è necessario selezionare contatto o azienda', 
 );
