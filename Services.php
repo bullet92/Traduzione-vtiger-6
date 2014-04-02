@@ -24,10 +24,10 @@ $languageStrings = array(
 	'Service Category'             => 'Categoria'                   , 
 	'Service No'                   => 'Numero Servizio'             , 
 	'Owner'                        => 'Propietario'                 , 
-	'No of Units'                  => 'Nr. di unità'              , 
+	'No of Units'                  => 'Nr. di unit&agrave;'              , 
 	'Commission Rate'              => 'Commissione (%)'             , 
 	'Price'                        => 'Prezzo'                      , 
-	'Usage Unit'                   => 'Unità di utilizzo'         , 
+	'Usage Unit'                   => 'Unit&agrave; di utilizzo'         , 
 	'Tax Class'                    => 'Tipologia tassazione'             , 
 	'Website'                      => 'Sito web'                    , 
 );
