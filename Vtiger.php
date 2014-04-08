@@ -551,22 +551,22 @@ $languageStrings = array(
 	'LBL_EXCEEDED'                 => 'Supera'                      , // TODO: Review
 
 	//Translations used for Export to Pdf
-	'Valid Date' => 'Data valida',
+	'Valid Date' => 'Valido fino a',
 	'Phone: ' => 'Telefono: ',
-	'Issued Date' => 'rilasciato Data',
-	'Shipping & Handling Charges' => 'Spedizione e spese di trattamento',
-	'Shipping & Handling Tax:' => 'Spedizione & trattare Tax:',
-	'Discount' => 'sconto',
-	'Net Total' => 'Totale Netto',
-	'Product Code' => 'Prodotto Codice',
+	'Issued Date' => 'Data di emissione',
+	'Shipping & Handling Charges' => 'Spese di spedizione e imballaggio',
+	'Shipping & Handling Tax:' => 'Tasse sulle spedizione di spedizione e imballaggio:',
+	'Discount' => 'Sconto',
+	'Net Total' => 'Totale netto',
+	'Product Code' => 'Codice prodotto',
 	'Customer Name' => 'Nome cliente',
-	'Price'=>'prezzo',
-	'Tax:' => 'Tax:',
+	'Price'=>'Prezzo',
+	'Tax:' => 'Tasse:',
 	'Contact Name' => 'Nome contatto',
-	'Grand Total:' => 'Totale generale:',
+	'Grand Total:' => 'Totale documento:',
 	'Fax: ' => 'Fax: ',
 	'Website: ' => 'Sito web: ',
-	'Tax' => 'Tax',
+	'Tax' => 'Tasse',
     'LBL_ALPHABETS' => 'A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z',
 
 	//Realted tab strings
@@ -574,15 +574,15 @@ $languageStrings = array(
 	'Projects' => 'Progetti',
 	'Sales Order' => 'Ordini di Vendita',
 	'Purchase Order' => 'Ordini di Acquisto',
-	'List and Campaigns' => 'Liste e Campaigne',
-	'Project Tasks' => 'Compiti progetto',
-	'Project Milestones' => 'Milestones progetto',
+	'List and Campaigns' => 'Liste e Campagne',
+	'Project Tasks' => 'Operazioni',
+	'Project Milestones' => 'Scadenze',
 
 	'Labels Editor' => 'Editor etichette',
 
 	//Related tabs of Products
-	'Product Bundles' => 'Product Bundles',
-	'Parent Product' => 'Parent Product',
+	'Product Bundles' => 'Bundle',
+	'Parent Product' => 'Prodotti collegati',
 );
 $jsLanguageStrings = array(
 	'JS_EMAIL_SERVER_CONFIGURATION' => 'Please configure your outgoing server settings from the settings page',
