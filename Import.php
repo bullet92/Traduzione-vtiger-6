@@ -62,7 +62,7 @@ $languageStrings = array(
 	'LBL_IMPORT_CHANGE_UPLOAD_SIZE' => 'L&acute;importazione ha cambiato la dimensione del file '  , 
 	'LBL_IMPORT_DIRECTORY_NOT_WRITABLE' => 'La cartella di importazione non &egrave; scrivibile', 
 	'LBL_IMPORT_FILE_COPY_FAILED'  => 'Copia del file di importazione fallita'     ,
-	'LBL_INVALID_FILE'             => 'Nome File invalido'                , 
+	'LBL_INVALID_FILE'             => 'Nome file invalido'                , 
 	'LBL_NO_ROWS_FOUND'            => 'Nessuna riga trovata'               ,
 	'LBL_SCHEDULED_IMPORT_DETAILS' => 'Importazione programmata e inizier&agrave; entro 15 minuti. Riceverai un email dopo che sar&agrave; completata.  <br> <br>
 										Assicurati che il server in uscita a il tuo indirizzo email sia configurato per ricevere le notifiche', 
