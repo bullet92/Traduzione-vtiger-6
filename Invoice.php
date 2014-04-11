@@ -16,7 +16,7 @@ $languageStrings = array(
 	'LBL_INVOICE_INFORMATION'      => 'Informazioni fattura'        , 
 	'Sales Order'                  => 'Ordine di vendita'           , 
 	'Customer No'                  => 'Numero cliente'              , 
-	'Invoice Date'                 => 'Data Fattura'                , 
+	'Invoice Date'                 => 'Data fattura'                , 
 	'Purchase Order'               => 'Ordine di acquisto'          , 
 	'Sales Commission'             => 'Commissioni vendita'         , 
 	'Invoice No'                   => 'Fattura numero'              , 
@@ -25,6 +25,6 @@ $languageStrings = array(
 	'Sent'                         => 'Spedito'                     , 
 	'Credit Invoice'               => 'Fattura di accredito'        , 
 	'Paid'                         => 'Pagato'                      , 
-	'AutoCreated'                  => 'AutoCreato'                  , 
+	'AutoCreated'                  => 'Autocreato'                  , 
 	'Cancel'                       => 'Annulla'                     , 
 );
