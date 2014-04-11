@@ -69,7 +69,7 @@ $jsLanguageStrings = array(
 	'LBL_SYNCRONIZING'             => 'Sto sincronizzando...'       , 
 	'LBL_NOT_SYNCRONIZED'          => 'Non hai ancora sincronizzato', 
 	'LBL_FIELD_MAPPING'            => 'Mappatura campi'             , 
-	'LBL_CANT_SELECT_CONTACT_FROM_LEADS' => 'Impossibile selezionare contatti correlati per i lLeads', 
+	'LBL_CANT_SELECT_CONTACT_FROM_LEADS' => 'Impossibile selezionare contatti correlati per i leads', 
 	
 	//Calendar view label translation
 	'LBL_MONTH' => 'Mese',
