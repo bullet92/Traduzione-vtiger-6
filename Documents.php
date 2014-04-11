@@ -9,10 +9,10 @@
  ************************************************************************************/
 $languageStrings = array(
 	'SINGLE_Documents'             => 'Documento'                   , 
-	'Documents'                    => 'Documenti'                   , // TODO: Review
+	'Documents'                    => 'Documenti'                   ,
 	'LBL_ADD_RECORD'               => 'Aggiungi documento'          , 
 	'LBL_RECORDS_LIST'             => 'Lista documenti'             , 
-	'LBL_NOTE_INFORMATION'         => 'Informazioni Base'           , 
+	'LBL_NOTE_INFORMATION'         => 'Informazioni base'           , 
 	'LBL_FILE_INFORMATION'         => 'Informazioni file'           , 
 	'LBL_DESCRIPTION'              => 'Descrizione'                 , 
 	'Title'                        => 'Titolo'                      , 
@@ -51,6 +51,6 @@ $jsLanguageStrings = array(
 	'JS_NEW_FOLDER'                => 'Nuova cartella'              , 
 	'JS_MOVE_DOCUMENTS'            => 'Muovi documenti'             , 
 	'JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO' => 'Sei sicuro di voler muovere il/i file in', 
-	'JS_FOLDER'                    => 'cartella'                    , 
+	'JS_FOLDER'                    => 'Cartella'                    , 
 	'JS_OPERATION_DENIED'          => 'Operazione negata'           , 
 );
