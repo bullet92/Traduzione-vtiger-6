@@ -14,7 +14,7 @@ $languageStrings = array(
 	'LBL_ADD_RECORD'               => 'Aggiungi lead'               , 
 	'LBL_LEAD_INFORMATION'         => 'Informazioni lead'           , 
 	'Lead No'                      => 'Numero lead'                 , 
-	'Company'                      => 'Società'                     , 
+	'Company'                      => 'Azienda'                     , 
 	'Designation'                  => 'Designazione'                , 
 	'Website'                      => 'Sito WEB'                    , 
 	'Industry'                     => 'Settore'                     , 
@@ -47,10 +47,10 @@ $languageStrings = array(
 	'LBL_MANDATORY_FIELDS_ARE_EMPTY' => 'Campo obbligatorio'        , 
 	'LBL_LEADS_FIELD_MAPPING'      => 'Mappatura campo lead'        , 
 	'LBL_CUSTOM_FIELD_MAPPING'     => 'Edita mappatura campo'       , 
-	'LBL_WEBFORMS'                 => 'Configura Webform'           , 
+	'LBL_WEBFORMS'                 => 'Configura webform'           , 
 );
 $jsLanguageStrings = array(
 	'JS_SELECT_CONTACTS'           => 'Seleziona contatto per procedere'  , 
 	'JS_SELECT_ORGANIZATION'       => 'Seleziona azienda per procedere'   , 
-	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Per poter effettuare la conversione è necessario selezionare contatto o azienda', 
+	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Per poter effettuare la conversione &egrave; necessario selezionare contatto o azienda', 
 );
