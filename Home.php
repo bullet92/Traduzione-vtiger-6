@@ -8,17 +8,17 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'ALVT'                         => 'Migliori Aziende'             , 
-	'PLVT'                         => 'Migliori Opportunità'         , 
-	'QLTQ'                         => 'Migliori Preventivi'          , 
+	'ALVT'                         => 'Migliori aziende'             , 
+	'PLVT'                         => 'Migliori opportunit&agrave;'  , 
+	'QLTQ'                         => 'Migliori preventivi'          , 
 	'CVLVT'                        => 'Indici chiave'                , 
-	'HLT'                          => 'Top Supporto Ticket'          , 
-	'GRT'                          => 'I miei Gruppi'                , 
-	'OLTSO'                        => 'Ordini di Vendita Importanti' , 
-	'ILTI'                         => 'Fatture Importanti'           , 
-	'HDB'                          => 'Cruscotto Home Page'          , 
-	'OLTPO'                        => 'Ordini di Acquisto Importanti', 
+	'HLT'                          => 'Migliori ticket'              , 
+	'GRT'                          => 'I miei gruppi'                , 
+	'OLTSO'                        => 'Ordini di vendita importanti' , 
+	'ILTI'                         => 'Fatture importanti'           , 
+	'HDB'                          => 'Cruscotto home page'          , 
+	'OLTPO'                        => 'Ordini di acquisto importanti', 
 	'LTFAQ'                        => 'Mie FAQ recenti'              , 
-	'UA'                           => 'Prossimi Eventi'              , 
-	'PA'                           => 'Eventi Pendenti'              , 
+	'UA'                           => 'Prossimi eventi'              , 
+	'PA'                           => 'Eventi pendenti'              , 
 );
