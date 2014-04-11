@@ -29,7 +29,7 @@ $languageStrings = array(
 	'Last Modified By'             => 'Ultima modifica di'          , 
 	'LBL_FOLDER_HAS_DOCUMENTS'     => 'Per favore muovi il documento dalla cartella prima di cancellarlo', 
 	'LBL_DOWNLOAD_FILE'            => 'Download file'               , 
-	'LBL_CHECK_FILE_INTEGRITY'     => 'Controllo di integrità'      , 
+	'LBL_CHECK_FILE_INTEGRITY'     => 'Controllo di integrit&agrave;' , 
 	'LBL_INTERNAL'                 => 'Interno'                     , 
 	'LBL_EXTERNAL'                 => 'Esterno'                     , 
 	'LBL_MAX_UPLOAD_SIZE'          => 'Massima dimensione upload'   , 
@@ -44,7 +44,7 @@ $languageStrings = array(
 	'LBL_FOLDER_NAME'              => 'Nome cartella'               , 
 	'LBL_FOLDER_DESCRIPTION'       => 'Descrizione cartella'        , 
 	'LBL_FILE_AVAILABLE'           => 'File disponibile per il download', 
-	'LBL_FILE_NOT_AVAILABLE'       => 'Questo documento non è disponibile per il Download', 
+	'LBL_FILE_NOT_AVAILABLE'       => 'Questo documento non &egrave; disponibile per il Download', 
 );
 $jsLanguageStrings = array(
 	'JS_EXCEEDS_MAX_UPLOAD_SIZE'   => 'Supera la massima dimensione per upload', 
