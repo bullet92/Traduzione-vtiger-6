@@ -5,7 +5,7 @@
  * The Original Code is:  vtiger CRM Open Source
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
- * All Rights Reserved.
+ * All Rights Reserved.pa
  ************************************************************************************/
 $languageStrings = array(
 	'APPTITLE'                     => 'vtiger CRM'                  ,
@@ -148,7 +148,7 @@ $languageStrings = array(
 	'LBL_ACCESS_DENIED_FOR'        => 'Accesso negato per'          ,
 	'LBL_GO_BACK'                  => 'Indietro'                    ,
 	'LBL_NO_DATA_AVAILABLE'        => 'Nessun dato disponibile'     ,
-	'LBL_GLOBAL_SEARCH'            => 'Inserisci parola chiave e premi Invio',
+	'LBL_GLOBAL_SEARCH'            => 'Inserisci parola chiave e premi invio',
 	'LBL_ALL_RECORDS'              => 'Tutti gli elementi'          , 
 	'LBL_NO_RECORDS_FOUND'         => 'Nessun elemento trovato'     ,
 	'LBL_AND'                      => 'e'                           ,
@@ -435,8 +435,8 @@ $languageStrings = array(
 	'Discount Amount'              => 'Ammontare sconto'            ,
 	'Item Discount Amount'         => 'Ammontare sconto oggetto'    ,
 	'Item Discount Percent'        => 'Percentuale sconto oggetto'  ,
-	'Due Date'                     => 'Data di Pagamento'           ,
-	'Due Date & Time'              => 'Due Date & Time'             ,
+	'Due Date'                     => 'Data di scadenza'            ,
+	'Due Date & Time'              => 'Data e ora di scadenza'      ,
 	'Email'                        => 'Email'                       ,
 	'Secondary Email'              => 'Email secondaria'            ,
 	'Other Email'                  => 'Altra Email'                 ,
