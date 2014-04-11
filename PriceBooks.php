@@ -12,8 +12,8 @@ $languageStrings = array(
 	'SINGLE_PriceBooks'            => 'Listino'                     , 
 	'LBL_ADD_RECORD'               => 'Aggiungi listino'            , 
 	'LBL_RECORDS_LIST'             => 'Listini'                     , 
-	'LBL_PRICEBOOK_INFORMATION'    => 'Informazioni Listino:'       , 
+	'LBL_PRICEBOOK_INFORMATION'    => 'Informazioni listino:'       , 
 	'LBL_EDIT_LIST_PRICE'          => 'Modifica prezzi listino'     , 
-	'Price Book Name'              => 'Nome Listino'                , 
-	'PriceBook No'                 => 'Numeor listino'              , 
+	'Price Book Name'              => 'Nome listino'                , 
+	'PriceBook No'                 => 'Numero listino'              , 
 );
