@@ -8,12 +8,12 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Aggiungi Template Email'     ,
-	'SINGLE_EmailTemplates' => 'Email Template'       ,
-	'LBL_EMAIL_TEMPLATES'=> 'Email Template'          ,
-	'LBL_EMAIL_TEMPLATE' => 'Email Template'          ,
+	'LBL_ADD_RECORD' => 'Aggiungi template email'     ,
+	'SINGLE_EmailTemplates' => 'Email template'       ,
+	'LBL_EMAIL_TEMPLATES'=> 'Email template'          ,
+	'LBL_EMAIL_TEMPLATE' => 'Email template'          ,
 	
-	'LBL_TEMPLATE_NAME' => 'Nome Template'            ,
+	'LBL_TEMPLATE_NAME' => 'Nome template'            ,
 	'LBL_DESCRIPTION' => 'Descrizione'                ,
 	'LBL_SUBJECT' => 'Soggetto'                       ,
 	'LBL_GENERAL_FIELDS' => 'Campi generali'          ,
