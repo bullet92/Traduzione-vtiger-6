@@ -8,12 +8,12 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'Potentials'                   => 'Opportunità'                 , 
-	'SINGLE_Potentials'            => 'Opportunità'                 , 
-	'LBL_ADD_RECORD'               => 'Aggiungi opportunità'        , 
-	'LBL_RECORDS_LIST'             => 'Lista opportunità'           , 
-	'LBL_OPPORTUNITY_INFORMATION'  => 'Informazioni opportunità'    , 
-	'Potential No'                 => 'Numero opportunità'          , 
+	'Potentials'                   => 'Opportunit&agrave;'          , 
+	'SINGLE_Potentials'            => 'Opportunit&agrave;'          , 
+	'LBL_ADD_RECORD'               => 'Aggiungi opportunit&agrave;' , 
+	'LBL_RECORDS_LIST'             => 'Lista opportunit&agrave;'    , 
+	'LBL_OPPORTUNITY_INFORMATION'  => 'Informazioni opportunit&agrave;' , 
+	'Potential No'                 => 'Numero opportunit&agrave;'   , 
 	'Amount'                       => 'Ammontare'                   , 
 	'Next Step'                    => 'Step successivo'             , 
 	'Sales Stage'                  => 'Stadio di vendita'           , 
@@ -23,7 +23,7 @@ $languageStrings = array(
 	'Funnel'                       => 'Sales Funnel'                , 
 	'Potentials by Stage'          => 'Opportunità per stadio'      , 
 	'Total Revenue'                => 'Ricavi per venditore'        , 
-	'Top Potentials'               => 'Migliori opportunità'        , 
+	'Top Potentials'               => 'Migliori opportunit&agrave;' , 
 	'Forecast'                     => 'Previsione vendite'          , 
 	'Prospecting'                  => 'In prospettiva'              , 
 	'Qualification'                => 'Qualificazione'              , 
