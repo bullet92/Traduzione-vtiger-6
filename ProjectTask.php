@@ -8,17 +8,17 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'SINGLE_ProjectTask'           => 'Operazione'                 , 
-	'LBL_ADD_RECORD'               => 'Aggiungi operazione'        , 
-	'LBL_RECORDS_LIST'             => 'Lista operazioni'           , 
-	'LBL_PROJECT_TASK_INFORMATION' => 'Dettagli operazione'        , 
-	'LBL_PROJECTS_LIST'            => 'Lista progetti'             , // TODO: Review
-	'LBL_TASKS_LIST'               => 'Lista operazioni'           , // TODO: Review
+	'SINGLE_ProjectTask'           => 'Compito'                    , 
+	'LBL_ADD_RECORD'               => 'Aggiungi compito'           , 
+	'LBL_RECORDS_LIST'             => 'Lista compito'              , 
+	'LBL_PROJECT_TASK_INFORMATION' => 'Dettagli compito'           , 
+	'LBL_PROJECTS_LIST'            => 'Lista progetti'             , 
+	'LBL_TASKS_LIST'               => 'Lista compiti'              ,
 	
 	//Field Labels
-	'Project Task Name' => 'Nome operazione',
-    'Project Task No' => 'Numero operazione',
-    'Project Task Number' => 'Numero operazione',
+	'Project Task Name' => 'Nome compito',
+    'Project Task No' => 'Numero compito',
+    'Project Task Number' => 'Numero compito',
 	'Status' => 'Stato',
 	'Priority' => 'Priorità',
     'Progress' => 'Progresso',
