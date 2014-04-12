@@ -13,7 +13,7 @@ $languageStrings = array(
 	'LBL_EMPTY_RECYCLEBIN'         => 'Svuota cestino'          ,
 	'LBL_RESTORE'                  => 'Ripristina'              , 
 	'LBL_NO_PERMITTED_MODULES'     => 'Nessun modulo consentito disponibile', 
-	'LBL_RECORDS_LIST'             => 'Lista records cestino'   ,
+	'LBL_RECORDS_LIST'             => 'Lista record cestino'    ,
 	'LBL_NO_RECORDS_FOUND'         => 'Nessun record trovato'   ,
 );
 $jsLanguageStrings = array(
