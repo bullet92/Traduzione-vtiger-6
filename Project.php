@@ -28,9 +28,9 @@ $languageStrings = array(
 	'LBL_TASKS_LIST'               => 'Lista compiti'               ,
 	'LBL_MILESTONES'               => 'Scadenze'                    ,
 	'LBL_TASKS'                    => 'Compiti'                     ,
-	'LBL_STATUS_IS'                => 'Lo stato è'                  ,
+	'LBL_STATUS_IS'                => 'Lo stato &egrave;'           ,
 	'LBL_STATUS'                   => 'Stato'                       ,
-	'LBL_TICKET_PRIORITY'          => 'Priorità'                    ,
+	'LBL_TICKET_PRIORITY'          => 'Priorit&agrave;'             ,
 	'LBL_MORE'                     => 'più'                         ,
 	'LBL_DOWNLOAD_FILE'            => 'Scarica file'                ,
 );
