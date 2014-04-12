@@ -32,6 +32,6 @@ $languageStrings = array(
 	'Sub Total'                    => 'Sub totale'                  , 
 	'AutoCreated'                  => 'Auto creato'                 , 
 	'Sent'                         => 'Inviato'                     , 
-	'Credit Invoice'               => 'Nota di accredito'           , 
+	'Credit Invoice'               => 'Nota di credito'             , 
 	'Paid'                         => 'Pagato'                      , 
 );
