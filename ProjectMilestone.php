@@ -14,5 +14,5 @@ $languageStrings = array(
 	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Dettagli scadenza' , 
 	'Project Milestone Name'       => 'Nome scadenza'       , 
 	'Milestone Date'               => 'Data scadenza'       , 
-	'Project Milestone No'         => 'Numero scadenza'     , 
+	'Project Milestone No'         => 'Numero scadenza'     ,
 );
