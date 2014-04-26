@@ -50,8 +50,8 @@ $languageStrings = array(
 	'Contact Id' => 'Contatto Id',
 );
 $jsLanguageStrings = array(
-	'LBL_SYNC_BUTTON'              => 'Sincronizza ora'             , // TODO: Review
-	'LBL_SYNCRONIZING'             => 'Sto sincronizzando...'       , // TODO: Review
-	'LBL_NOT_SYNCRONIZED'          => 'Non hai ancora sincronizzato', // TODO: Review
-	'LBL_FIELD_MAPPING'            => 'Mappatura campi'             , // TODO: Review
+	'LBL_SYNC_BUTTON'              => 'Sincronizza ora'             , 
+	'LBL_SYNCRONIZING'             => 'Sto sincronizzando...'       , 
+	'LBL_NOT_SYNCRONIZED'          => 'Non hai ancora sincronizzato', 
+	'LBL_FIELD_MAPPING'            => 'Mappatura campi'             , 
 );
