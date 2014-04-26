@@ -51,5 +51,5 @@ $languageStrings = array(
 	'--None--'                     => '--Nessuno--'                 , 
 	'Contacted - Successful'       => 'Contattato - successo'       , 
 	'Contacted - Unsuccessful'     => 'Contattato - fallimento'     , 
-	'Contacted - Never Contact Again' => 'Contattato - non contattare più', 
+	'Contacted - Never Contact Again' => 'Contattato - non contattare pi&ugrave;', 
 );
