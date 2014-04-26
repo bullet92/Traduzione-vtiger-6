@@ -10,7 +10,7 @@
 $languageStrings = array(
 	'LBL_ADD_RECORD'               => 'Aggiungi utente'             ,
 	'LBL_MY_PREFERENCES'           => 'Le mie preferenze'           , 
-	'LBL_MORE_INFORMATION'         => 'Più informazioni'            , 
+	'LBL_MORE_INFORMATION'         => 'Pi&ugrave; informazioni'     , 
 	'LBL_USERLOGIN_ROLE'           => 'Ruolo e login utente'        , 
 	'LBL_USER_IMAGE_INFORMATION'   => 'Fotografia utente'           , 
 	'LBL_CURRENCY_CONFIGURATION'   => 'Configurazione campi valuta e numeri', 
