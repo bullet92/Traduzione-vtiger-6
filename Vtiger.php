@@ -583,6 +583,9 @@ $languageStrings = array(
 	//Related tabs of Products
 	'Product Bundles' => 'Bundle',
 	'Parent Product' => 'Prodotti collegati',
+	
+	// menu
+	'Email Templates'	       => 'Template email'    , 
 );
 $jsLanguageStrings = array(
 	'JS_EMAIL_SERVER_CONFIGURATION' => 'Configura il server di posta in uscita nelle impostazioni',
