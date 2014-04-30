@@ -550,6 +550,7 @@ $languageStrings = array(
 	'LBL_MAX_UPLOAD_SIZE'          => 'Massima dimensione upload &egrave;' , 
 	'LBL_EXCEEDED'                 => 'Supera'                      ,
 
+
 	//Translations used for Export to Pdf
 	'Valid Date' => 'Valido fino a',
 	'Phone: ' => 'Telefono: ',
@@ -583,9 +584,16 @@ $languageStrings = array(
 	//Related tabs of Products
 	'Product Bundles' => 'Bundle',
 	'Parent Product' => 'Prodotti collegati',
-	
+
 	// menu
 	'Email Templates'	       => 'Template email'    , 
+	'LBL_0'	       => 'Altri moduli'    , 
+	'SMSNotifier'	       => 'Notifiche SMS'    , 
+	'LBL_CUSTOMIZE_MAIN_MENU'	       => 'Personalizza menu'    , 
+	'Recycle Bin'	       => 'Cestino'    , 
+	'LBL_PLEASE_SELECT_MODULE'	       => 'Scegli un modulo'    , 
+	'Quick Create'             => 'Creazione veloce'            ,
+	'LBL_EVENT_OR_TASK' => 'Evento / Compito',
 );
 $jsLanguageStrings = array(
 	'JS_EMAIL_SERVER_CONFIGURATION' => 'Configura il server di posta in uscita nelle impostazioni',
