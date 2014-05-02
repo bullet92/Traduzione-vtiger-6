@@ -28,7 +28,7 @@
         'Event Title'=>'Titolo evento',
         'Start Date'=>'Data inizio',
         'Until Date'=>'Fino a',
-        'Description'=>'Descrizinoe'
+        'Description'=>'Descrizione'
     );
     $jsLanguageStrings = array(
         'LBL_SYNC_BUTTON' => 'Sincronizza ora',
