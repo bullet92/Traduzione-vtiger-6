@@ -19,4 +19,5 @@ $languageStrings = array(
 $jsLanguageStrings = array(
 	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Sei sicuro di voler rimuovere definitivamente tutti i record cancellati?',
 	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Sei sicuro di volere ripristinare i record?', 
+	'JS_RESTORING_RECORDS' => 'Sto ripristinando i record...',
 );

@@ -9,6 +9,7 @@
  ************************************************************************************/
 $languageStrings = array(
 	'ServiceContracts'             => 'Contratti di servizio'       , 
+	'Service Contracts' 		   => 'Contratti di servizio'		,
 	'SINGLE_ServiceContracts'      => 'Contratto di servizio'       , 
 	'LBL_ADD_RECORD'               => 'Aggiungi contratto di servizio'        , 
 	'LBL_RECORDS_LIST'             => 'Lista sontratti di servizio' , 

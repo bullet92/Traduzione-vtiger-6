@@ -8,6 +8,7 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
+	'LayoutEditor' => 'Layout Editor',
 	'LBL_FIELDS_AND_LAYOUT_EDITOR' => 'Fields and Layout Editor'    , // TODO: Review
 	'LBL_CREATE_CUSTOM_FIELD'      => 'Create Custom Field'         , // TODO: Review
 	'LBL_DETAILVIEW_LAYOUT'        => 'Detail View Layout'          , // TODO: Review
@@ -46,6 +47,24 @@ $languageStrings = array(
 	'LBL_DUPLICATE_FIELD_EXISTS'   => 'Duplicate Field Exists'      , // TODO: Review
 	'LBL_WRONG_FIELD_TYPE'         => 'Wrong Field Type'            , // TODO: Review
 	'LBL_ROLE_BASED_PICKLIST'      => 'Role Based Picklist'         , // TODO: Review
+	'LBL_CLICK_HERE_TO_EDIT' => 'Click here to edit',
+
+	//Field Types
+	'Text'=>'Text',
+	'Decimal'=>'Decimal',
+	'Integer'=>'Integer',
+	'Percent'=>'Percent',
+	'Currency'=>'Currency',
+	'Date'=>'Date',
+	'Email'=>'Email',
+	'Phone'=>'Phone',
+	'PickList'=>'Pick List',
+	'MultiSelectCombo'=>'Multi-Select Combo Box',
+	'URL' => 'URL',
+	'Checkbox' => 'Checkbox',
+	'TextArea' => 'Text Area',
+	'Skype'=>'Skype',
+	'Time'=>'Time',
 );
 $jsLanguageStrings = array(
 	'JS_BLOCK_VISIBILITY_SHOW'     => 'Block show enabled'          , // TODO: Review
@@ -65,4 +84,6 @@ $jsLanguageStrings = array(
 	'JS_NO_HIDDEN_FIELDS_EXISTS'   => 'No Inactive Fields'          , // TODO: Review
 	'JS_SPECIAL_CHARACTERS'        => 'Special Characters like'     , // TODO: Review
 	'JS_NOT_ALLOWED'               => 'are not allowed'             , // TODO: Review
+	'JS_FIELD_SEQUENCE_UPDATED' => 'Field Sequence Updated',
+	'JS_DUPLICATES_VALUES_FOUND' => 'Duplicate Values found'
 );
