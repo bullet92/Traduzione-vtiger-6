@@ -31,6 +31,6 @@ $languageStrings = array(
 	'LBL_STATUS_IS'                => 'Lo stato &egrave;'           ,
 	'LBL_STATUS'                   => 'Stato'                       ,
 	'LBL_TICKET_PRIORITY'          => 'Priorit&agrave;'             ,
-	'LBL_MORE'                     => 'più'                         ,
+	'LBL_MORE'                     => 'pi&ugrave;'                  ,
 	'LBL_DOWNLOAD_FILE'            => 'Scarica file'                ,
 );
