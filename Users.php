@@ -187,7 +187,6 @@ $languageStrings = array(
 	'LBL_TRANSFER_RECORDS_TO_USER' => 'Transfer records to user', // TODO: Review
 	'LBL_USER_DELETED_SUCCESSFULLY' => 'Utente cancellato con successo',
 	'LBL_USER_TO_BE_DELETED' => 'Utente da cancellare',
-<<<<<<< HEAD
 );
 
 $jsLanguageStrings = array(
@@ -199,8 +198,6 @@ $jsLanguageStrings = array(
 	'JS_PASSWORD_CHANGE_FAILED_1'=>'Cambio password fallito per ',
 	'JS_PASSWORD_CHANGE_FAILED_2'=>' fallito.  La nuova password deve essere impostata.',
 	'JS_PASSWORD_INCORRECT_OLD'=>'La vecchia password non &egrave; corretta. Re-immetti la vecchia password.',
-=======
->>>>>>> fee05a59c15c33339f53892cfaabf02881bd9989
 );
 
 $jsLanguageStrings = array(

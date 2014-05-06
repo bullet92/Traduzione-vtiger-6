@@ -8,7 +8,6 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-<<<<<<< HEAD
 	'LayoutEditor' 				   => 'Editor di layout'            ,
 	'LBL_FIELDS_AND_LAYOUT_EDITOR' => 'Editor di campi e layout'    ,
 	'LBL_CREATE_CUSTOM_FIELD'      => 'Crea campo personalizzato'   ,
@@ -87,7 +86,6 @@ $jsLanguageStrings = array(
 	'JS_FIELD_SEQUENCE_UPDATED'    => 'Sequenza campo aggiornata'		,
 	'JS_DUPLICATES_VALUES_FOUND'   => 'Trovati valori duplicati'      ,
 );
-=======
 	'LayoutEditor' => 'Layout Editor',
 	'LBL_FIELDS_AND_LAYOUT_EDITOR' => 'Fields and Layout Editor'    , // TODO: Review
 	'LBL_CREATE_CUSTOM_FIELD'      => 'Create Custom Field'         , // TODO: Review
@@ -167,4 +165,3 @@ $jsLanguageStrings = array(
 	'JS_FIELD_SEQUENCE_UPDATED' => 'Field Sequence Updated',
 	'JS_DUPLICATES_VALUES_FOUND' => 'Duplicate Values found'
 );
->>>>>>> fee05a59c15c33339f53892cfaabf02881bd9989

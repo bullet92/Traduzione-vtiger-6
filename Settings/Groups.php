@@ -8,7 +8,6 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-<<<<<<< HEAD
 	'LBL_TRANSFORM_OWNERSHIP'      => 'Trasferisci la proprietà'    , 
 	'SINGLE_Groups'                => 'Gruppo'                      ,
 	'LBL_TO_OTHER_GROUP'           => 'A un\'altro gruppo'          , 
@@ -18,7 +17,6 @@ $languageStrings = array(
 	'LBL_ADD_USERS_ROLES'          => 'Aggiungi utenti, Ruoli...'   ,
 	'LBL_ROLEANDSUBORDINATE'       => 'Ruoli e subordinati'         ,
 	'RoleAndSubordinates'          => 'Ruoli e subordinati'         , 
-=======
 	'LBL_TRANSFORM_OWNERSHIP'      => 'Transfer ownership'          , 
 	'SINGLE_Groups'                => 'Group'                       , // TODO: Review
 	'LBL_TO_OTHER_GROUP'           => 'To Other Group '             , 
@@ -29,7 +27,6 @@ $languageStrings = array(
 	'LBL_ROLEANDSUBORDINATE'       => 'Role and Subordinates'       , // TODO: Review
 	'RoleAndSubordinates'          => 'Role and Subordinates'       , // TODO: Review
 	'LBL_DUPLICATES_EXIST' 		   => 'Group Name already Exists'	,
->>>>>>> fee05a59c15c33339f53892cfaabf02881bd9989
 );
 $jsLanguageStrings = array(
 	'JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP' => 'Scegli almeno un utente per il gruppo',
