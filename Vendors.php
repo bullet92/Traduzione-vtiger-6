@@ -10,6 +10,10 @@
 $languageStrings = array(
 	'Vendors'                      => 'Fornitori'                   , 
 	'SINGLE_Vendors'               => 'Fornitore'                   , 
+	'LBL_ADD_RECORD'               => 'Aggiungi Fornitore'          , 
+	'LBL_RECORDS_LIST'             => 'Lista Fornitori'             , 
+	'LBL_VENDOR_INFORMATION'       => 'Informazioni Fornitore'      , 
+	'LBL_VENDOR_ADDRESS_INFORMATION' => 'Informazioni Indirizzo'    , 
 	'LBL_ADD_RECORD'               => 'Aggiungi fornitore'                  , 
 	'LBL_RECORDS_LIST'             => 'Lista fornitori'                , 
 	'LBL_VENDOR_INFORMATION'       => 'Informazioni Fornitore'     , 

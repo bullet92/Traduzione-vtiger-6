@@ -19,6 +19,6 @@ $languageStrings = array(
 	'LBL_GENERAL_FIELDS' => 'Campi generali'          ,
 	'LBL_SELECT_FIELD_TYPE' => 'Seleziona un tipo di campo',
 	
-	'LBL_EMAIL_TEMPLATE_DESCRIPTION'=>'Gestisci template per il modulo E-Mail',
+	'LBL_EMAIL_TEMPLATE_DESCRIPTION'=>'Gestisci template per il modulo Email',
 	
 );

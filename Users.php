@@ -10,7 +10,7 @@
 $languageStrings = array(
 	'LBL_ADD_RECORD'               => 'Aggiungi utente'             ,
 	'LBL_MY_PREFERENCES'           => 'Le mie preferenze'           , 
-	'LBL_MORE_INFORMATION'         => 'Più informazioni'            , 
+	'LBL_MORE_INFORMATION'         => 'Pi&ugrave; informazioni'     , 
 	'LBL_USERLOGIN_ROLE'           => 'Ruolo e login utente'        , 
 	'LBL_USER_IMAGE_INFORMATION'   => 'Fotografia utente'           , 
 	'LBL_CURRENCY_CONFIGURATION'   => 'Configurazione campi valuta e numeri', 
@@ -187,6 +187,20 @@ $languageStrings = array(
 	'LBL_TRANSFER_RECORDS_TO_USER' => 'Transfer records to user', // TODO: Review
 	'LBL_USER_DELETED_SUCCESSFULLY' => 'Utente cancellato con successo',
 	'LBL_USER_TO_BE_DELETED' => 'Utente da cancellare',
+<<<<<<< HEAD
+);
+
+$jsLanguageStrings = array(
+	'JS_ENTER_OLD_PASSWORD'=>'Perfavore immetti la tua vecchia password.',
+	'JS_ENTER_NEW_PASSWORD'=>'Perfavore immetti la tua nuova password.',
+	'JS_ENTER_CONFIRMATION_PASSWORD'=>'Perfavore conferma la tua password.',
+	'JS_REENTER_PASSWORDS'=>'Perfavore re-immetti la password.  La \"nuova password\" e la \"password di conferma\" non corrispondono.',
+	'JS_INVALID_PASSWORD'=>'Devi specificare un username ed una password validi.',
+	'JS_PASSWORD_CHANGE_FAILED_1'=>'Cambio password fallito per ',
+	'JS_PASSWORD_CHANGE_FAILED_2'=>' fallito.  La nuova password deve essere impostata.',
+	'JS_PASSWORD_INCORRECT_OLD'=>'La vecchia password non &egrave; corretta. Re-immetti la vecchia password.',
+=======
+>>>>>>> fee05a59c15c33339f53892cfaabf02881bd9989
 );
 
 $jsLanguageStrings = array(
