@@ -47,7 +47,11 @@ $languageStrings = array(
 	'Dr.'                          => 'Dr.'                         , 
 	'Prof.'                        => 'Prof.'                       , 
 	'User List'                    => 'Lista utente'                , 
-	'Contact Id' => 'Contatto Id',
+	'Contact Id'                   => 'Contatto Id'                 ,
+	/* Filtri */
+	'All'                          => 'Tutti i'                     , 
+	'Contacts Address'             => 'Contatti e indirizzi'        , 
+	'Todays Birthday'              => 'Compleanno oggi'             , 
 );
 $jsLanguageStrings = array(
 	'LBL_SYNC_BUTTON'              => 'Sincronizza ora'             , 
