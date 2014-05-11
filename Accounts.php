@@ -37,6 +37,10 @@ $languageStrings = array(
 	'LBL_DUPLICATES_EXIST'         => 'Nome azienda esistente'      , 
 	'LBL_COPY_SHIPPING_ADDRESS'    => 'Copia indirizzo di spedizione' ,
 	'LBL_COPY_BILLING_ADDRESS'     => 'Copia indirizzo di fatturazione' ,
+	/* Filtri */
+	'Prospect Accounts'            => 'Aziende prospect'            , 
+	'New This Week'                => 'Nuove in questa settimana'    , 
+	'All'                	       => 'Tutte le'    , 
 );
 $jsLanguageStrings = array(
 	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Sei sicuro di volerlo cancellare?' , 
