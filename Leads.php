@@ -48,10 +48,6 @@ $languageStrings = array(
 	'LBL_LEADS_FIELD_MAPPING'      => 'Mappatura campo lead'        , 
 	'LBL_CUSTOM_FIELD_MAPPING'     => 'Edita mappatura campo'       , 
 	'LBL_WEBFORMS'                 => 'Configura webform'           , 
-	/* Filtri */
-	'All'                          => 'Tutti i '                    , 
-	'Hot Leads'                    => 'Lead caldi'                  , 
-	'This Month Leads'             => 'Inseriti questo mese'        , 
 );
 $jsLanguageStrings = array(
 	'JS_SELECT_CONTACTS'           => 'Seleziona contatto per procedere'  , 
