@@ -10,7 +10,7 @@
 $languageStrings = array(
 	'Reports'                      => 'Report'                      ,
 	'SINGLE_Reports'               => 'Report'                      ,
-	'LBL_FOLDER_NOT_EMPTY'         => 'Cartella non &egrave; vuota' , 
+	'LBL_FOLDER_NOT_EMPTY'         => 'La cartella non &egrave; vuota' , 
 	'LBL_MOVE_REPORT'              => 'Sposta report'               , 
 	'LBL_CUSTOMIZE'                => 'Personalizza'                , 
 	'LBL_REPORT_EXPORT_EXCEL'      => 'Esporta in excel'            , 
