@@ -8,21 +8,21 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'MailConverter'                => 'Mail Converter'              , // TODO: Review
+	'MailConverter'                => 'Convertitore email'              , // TODO: Review
 	'MailConverter_Description'    => 'Convert emails to respective records', // TODO: Review
 	'MAILBOX'                      => 'MailBox'                     , // TODO: Review
-	'RULE'                         => 'Rule'                        , // TODO: Review
-	'LBL_ADD_RECORD'               => 'Add MailBox'                 , // TODO: Review
-	'ALL'                          => 'All'                         , // TODO: Review
-	'UNSEEN'                       => 'Unread'                      , // TODO: Review
-	'LBL_MARK_READ'                => 'Mark Read'                   , // TODO: Review
-	'SEEN'                         => 'Read'                        , // TODO: Review
-	'LBL_EDIT_MAILBOX'             => 'Edit MailBox'                , // TODO: Review
-	'LBL_CREATE_MAILBOX'           => 'Create MailBox'              , // TODO: Review
-	'LBL_BACK_TO_MAILBOXES'        => 'Back to MailBoxes'           , // TODO: Review
-	'LBL_MARK_MESSAGE_AS'          => 'Mark message as'             , // TODO: Review
-	'LBL_MAX_LIMIT_ONLY_TWO'       => 'You can configure only two mailboxes', // TODO: Review
-	'LBL_IS_IN_RUNNING_STATE'      => 'is in running state'         , // TODO: Review
+	'RULE'                         => 'Regola'                        , // TODO: Review
+	'LBL_ADD_RECORD'               => 'Aggiungi mailBox'                 , // TODO: Review
+	'ALL'                          => 'Tutti'                         , // TODO: Review
+	'UNSEEN'                       => 'Non lette'                      , // TODO: Review
+	'LBL_MARK_READ'                => 'Segna come letta'                   , // TODO: Review
+	'SEEN'                         => 'Leggi'                        , // TODO: Review
+	'LBL_EDIT_MAILBOX'             => 'Edita MailBox'                , // TODO: Review
+	'LBL_CREATE_MAILBOX'           => 'Crea MailBox'              , // TODO: Review
+	'LBL_BACK_TO_MAILBOXES'        => 'Ritorna a MailBoxes'           , // TODO: Review
+	'LBL_MARK_MESSAGE_AS'          => 'Segna messaggio come'             , // TODO: Review
+	'LBL_MAX_LIMIT_ONLY_TWO'       => 'Puoi configurare solo due mailboxe', // TODO: Review
+	'LBL_IS_IN_RUNNING_STATE'      => 'è in stato di caricamento'         , // TODO: Review
 	'LBL_SAVED_SUCCESSFULLY'       => 'Saved successfully'          , // TODO: Review
 	'LBL_CONNECTION_TO_MAILBOX_FAILED' => 'Connecting to mailbox failed!', // TODO: Review
 	'LBL_DELETED_SUCCESSFULLY'     => 'Deleted successfully'        , // TODO: Review
