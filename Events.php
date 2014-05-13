@@ -66,4 +66,5 @@ $languageStrings = array(
 	'LBL_CALENDAR_VIEW'            => 'Vista calendario'            , 
 	'LBL_INVITE_USER_BLOCK'        => 'Invita'                      ,
 	'LBL_INVITE_USERS'             => 'Invita utente'               ,
+	'INVITATION'		       => ' Invito '                    ,
 );
