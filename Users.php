@@ -10,7 +10,7 @@
 $languageStrings = array(
 	'LBL_ADD_RECORD'               => 'Aggiungi utente'             ,
 	'LBL_MY_PREFERENCES'           => 'Le mie preferenze'           , 
-	'LBL_MORE_INFORMATION'         => 'Pi&ugrave; informazioni'     , 
+	'LBL_MORE_INFORMATION'         => 'Più informazioni'            , 
 	'LBL_USERLOGIN_ROLE'           => 'Ruolo e login utente'        , 
 	'LBL_USER_IMAGE_INFORMATION'   => 'Fotografia utente'           , 
 	'LBL_CURRENCY_CONFIGURATION'   => 'Configurazione campi valuta e numeri', 
@@ -69,6 +69,7 @@ $languageStrings = array(
 	'Default Call Duration'        => 'Durata chiamata default (Min)', 
 	'Other Event Duration'         => 'Durata altri eventi (Min)'   ,
 	'Calendar Hour Format'         => 'Formato ora calendario'      ,
+	'Tag Cloud' => 'Tag Cloud', // TODO: Review
 	'Kwajalein'                    => '(UTC-12:00) International Date Line West', 
 	'Pacific/Midway'               => '(UTC-11:00) Coordinated Universal Time-11', 
 	'Pacific/Samoa'                => '(UTC-11:00) Samoa'           , 
@@ -169,4 +170,32 @@ $languageStrings = array(
 	'Summary'                      => 'Riepologo'                   ,
 	'Detail'                       => 'Dettaglio'                   ,
 	'LBL_USER_LIST_DETAILS'        => 'Dettagli'                    ,
+	'LBL_OLD_PASSWORD' => 'Vecchia password',
+	'LBL_CHANGE_PASSWORD' => 'Cambia password',
+	'LBL_NEW_PASSWORD' => 'Nuova password',
+	'LBL_CONFIRM_PASSWORD' => 'Conferma Password',
+	
+	//Login strings
+	'LBL_TO_CRM' => 'Entra in Vtiger CRM',
+	'LBL_INVALID_USER_OR_PASSWORD' => 'Username o password non validi.',
+	'LBL_INVALID_USER_OR_EMAIL' => 'Username o email non validi.',
+	'LBL_EMAIL_SEND' => 'Ti &egrave; stata inviata una email per reimpostare la password.',
+	'ForgotPassword' => 'Password dimeticata',
+	'LBL_CONNECT_WITH_US' => 'Connect with US', // TODO: Review
+	'LBL_GET_MORE' => 'Get more out of Vtiger', // TODO: Review
+	
+	'LBL_TRANSFER_RECORDS_TO_USER' => 'Transfer records to user', // TODO: Review
+	'LBL_USER_DELETED_SUCCESSFULLY' => 'Utente cancellato con successo',
+	'LBL_USER_TO_BE_DELETED' => 'Utente da cancellare',
+);
+
+$jsLanguageStrings = array(
+	'JS_ENTER_OLD_PASSWORD'=>'Perfavore immetti la tua vecchia password.',
+	'JS_ENTER_NEW_PASSWORD'=>'Perfavore immetti la tua nuova password.',
+	'JS_ENTER_CONFIRMATION_PASSWORD'=>'Perfavore conferma la tua password.',
+	'JS_REENTER_PASSWORDS'=>'Perfavore re-immetti la password.  La \"nuova password\" e la \"password di conferma\" non corrispondono.',
+	'JS_INVALID_PASSWORD'=>'Devi specificare un username ed una password validi.',
+	'JS_PASSWORD_CHANGE_FAILED_1'=>'Cambio password fallito per ',
+	'JS_PASSWORD_CHANGE_FAILED_2'=>' fallito.  La nuova password deve essere impostata.',
+	'JS_PASSWORD_INCORRECT_OLD'=>'La vecchia password non &egrave; corretta. Re-immetti la vecchia password.',
 );
