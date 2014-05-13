@@ -736,11 +736,11 @@ $jsLanguageStrings = array(
 	'JS_PAGE_NOT_EXIST' => 'Pagina non trovata',
 	'JS_YOU_ARE_IN_PAGE_NUMBER' => 'Sei alla pagina numero',
 	'JS_PLEASE_ENABLE_BASE_CURRENCY_FOR_PRODUCT' => 'Perfavore abilita la valuta di base per il prodotto',
-	'JS_RECORDS_ARE_GETTING_DELETED' => 'Records are getting deleted',
-	'JS_RECORD_GETTING_DELETED' => 'Record getting deleted',
-	'JS_NO_RESULTS_FOUND' => 'No Results Found',
+	'JS_RECORDS_ARE_GETTING_DELETED' => 'Gli elementi sono stati cancellati',
+	'JS_RECORD_GETTING_DELETED' => 'Elemento cancellato',
+	'JS_NO_RESULTS_FOUND' => 'Nessun risultato trovato',
 
-	'JS_RECORDS TRANSFERRED SUCCESSFULLY' => 'Records ownership has been tranferred successfully',
+	'JS_RECORDS TRANSFERRED SUCCESSFULLY' => 'La propriet&agrave; dell&acute;elemento &egrave; stata trasferita con successo',
 	'JS_USER_EXISTS' => 'Utente esistente',
 	'JS_REENTER_PASSWORDS' => 'Reinserisci passwords',
 );
