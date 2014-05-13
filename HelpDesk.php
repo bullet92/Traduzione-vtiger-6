@@ -22,6 +22,8 @@ $languageStrings = array(
 	'Title'                        => 'Titolo'                      , 
 	'Solution'                     => 'Soluzione'                   , 
 	'From Portal'                  => 'Dal portale'                 , 
+	'Related To'                   => 'Nome azienda'                ,
+	'Contact Name'                 => 'Nome contatto'               ,
 	'Big Problem'                  => 'Grosso problema'             , 
 	'Small Problem'                => 'Piccolo problema'            , 
 	'Other Problem'                => 'Altro problema'              , 
@@ -48,6 +50,7 @@ $languageStrings = array(
 	'LBL_REGARDS' => 'Cordiali saluti',
 	'LBL_TEAM' => 'Gruppo Assistenza Clienti',
 	'LBL_TICKET_DETAILS' => 'Dettaglio ticket',
+	'LBL_SUBJECT' => 'Soggetto : ',
 	'created' => 'creato',
 	'replied' => 'risposto',
 	'reply' => '&egrave; presente una risposta a',
@@ -55,6 +58,9 @@ $languageStrings = array(
 	'link' => 'Puoi usare il seguente link per visualizzare le risposte date:',
 	'Thanks' => 'Grazie',
 	'Support_team' => 'Team di supporto vTiger',
+	'The comments are' => 'I commenti sono',
+	'Ticket Title' => 'Titolo ticket',
+	'Re' => 'Re :',
 
 	//This label for customerportal.
 	'LBL_STATUS_CLOSED' => 'Closed',//Do not convert this label. This is used to check the status. If the status 'Closed' is changed in vtigerCRM server side then you have to change in customerportal language file also.
