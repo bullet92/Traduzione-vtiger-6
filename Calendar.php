@@ -9,6 +9,7 @@
  ************************************************************************************/
 $languageStrings = array(
 	'SINGLE_Calendar'              => 'Compito'                     , 
+	'SINGLE_Events' 	       => 'Evento'						,
 	'LBL_ADD_TASK'                 => 'Aggiungi compito'            , 
 	'LBL_ADD_EVENT'                => 'Aggiungi evento'             , 
 	'LBL_RECORDS_LIST'             => 'Vista per lista'             , 
@@ -21,6 +22,7 @@ $languageStrings = array(
 	'LBL_OTHER_EVENTS'             => 'Altri eventi'                , 
 	'LBL_MINUTES'                  => 'Minuti'                      , 
 	'LBL_SELECT_USERS'             => 'Seleziona utente'            , 
+	'LBL_EVENT_OR_TASK'            => 'Evento / compito'            ,
 	'LBL_TASK_INFORMATION'         => 'Informazione compito'        , 
 	'Subject'                      => 'Soggetto'                    , 
 	'Start Date & Time'            => 'Orario e data inizio'        , 
