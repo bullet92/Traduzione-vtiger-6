@@ -132,7 +132,7 @@ $languageStrings = array(
 	'PriceBooks'                   => 'Listini'                     ,
 	'Products'                     => 'Prodotti'                    ,
 	'Project'                      => 'Progetti'                    ,
-	'ProjectMilestone'             => 'Scadenze'                    ,
+	'ProjectMilestone'             => 'Milestone'                    ,
 	'ProjectTask'                  => 'Operazioni'                  ,
 	'ServiceContracts'             => 'Contratti di servizio'       ,
 	'Services'                     => 'Servizi'                     ,
@@ -593,7 +593,7 @@ $languageStrings = array(
 	'Purchase Order' => 'Ordini di Acquisto',
 	'List and Campaigns' => 'Liste e Campagne',
 	'Project Tasks' => 'Operazioni',
-	'Project Milestones' => 'Scadenze',
+	'Project Milestones' => 'Milestone',
 
 	'Labels Editor' => 'Editor etichette',
 	'LBL_IGNORE_EMPTY_VALUES' =>'Ignora valori vuoti',
