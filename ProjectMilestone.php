@@ -8,11 +8,11 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'SINGLE_ProjectMilestone'      => 'Scadenza'            , 
-	'LBL_ADD_RECORD'               => 'Aggiungi scadenza'   , 
-	'LBL_RECORDS_LIST'             => 'Lista scadenze'      , 
-	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Dettagli scadenza' , 
-	'Project Milestone Name'       => 'Nome scadenza'       , 
-	'Milestone Date'               => 'Data scadenza'       , 
-	'Project Milestone No'         => 'Numero scadenza'     ,
+	'SINGLE_ProjectMilestone'      => 'Milestone'            , 
+	'LBL_ADD_RECORD'               => 'Aggiungi milestone'   , 
+	'LBL_RECORDS_LIST'             => 'Lista milestone'      , 
+	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Dettagli milestone' , 
+	'Project Milestone Name'       => 'Nome milestone'       , 
+	'Milestone Date'               => 'Data milestone'       , 
+	'Project Milestone No'         => 'Numero milestone'     ,
 );
